@@ -1,0 +1,30 @@
+{
+  "name": "node-workspace-pkg",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anil-sidhu/node-js.git"
+  },
+  "keywords": [
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "Lahu Mane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anil-sidhu/node-js/issues"
+  },
+  "homepage": "https://github.com/anil-sidhu/node-js#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.19",
+    "simple-node-logger": "^21.8.12"
+  }
+}
